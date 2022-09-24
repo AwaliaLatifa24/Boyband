@@ -61,8 +61,20 @@ li.dropdown {
   font-size: 30px;
 }
 
+img.class {
+  float: center;
+  max-widht: 100%;
+  margin: 5px;
+}
+
 .copy-container h3 {
   font-size: 30px;
+}
+
+img.class {
+  float: center;
+  max-widht: 100%;
+  margin: 5px;
 }
 
 .copy-container h4 {
@@ -71,6 +83,7 @@ li.dropdown {
 
 .main-list li {
   float: right;
+  max-widht: 100%;
   padding: 30px 20px;
 }
 
