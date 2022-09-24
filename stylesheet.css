@@ -53,12 +53,10 @@ li {
 .footer {
   background-color: #cc99ff;
   color: #fff;
-  height: 40px;
-  padding-top: 20px;
+  height: 100px;
 }
 
 .footer-list li {
   float: right;
   padding: 20px 30px;
-  padding-bottom: 20px;
 }
