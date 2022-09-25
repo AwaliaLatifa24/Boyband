@@ -36,12 +36,11 @@ top-wrapper {
 }
 
 lesson-wrapper {
- background-color: #ccffff;
- color: #ffffff;
- height: 80px;
+ color:#ccffff;
 }
 
 lesson-wrapper img {
+  image-decoration: center;
   max-width: 60%;
   height: auto;
 }
