@@ -2,6 +2,7 @@
 body {
   font-family: "Monaco";
   font-size: 30px;
+  font-color: #000000;
 }
 
 li {
@@ -28,18 +29,10 @@ li {
   padding-bottom: 200px;
 }
 
-.lesson-wrapper img {
-   image-decoration: center;
+.img {
+   float: center;
    max-width: 60%;
    height: auto;
-}
-
-.lesson-wrapper p {
-  font-size: 20px;
-  font-color: #000000;
-  margin-top: 30px;
-  padding top: 50px;
-  padding-bottom: 100px;
 }
 
 .footer {
