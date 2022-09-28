@@ -2,63 +2,49 @@
 body {
   font-family: "Monaco";
   font-size: 30px;
-  font-color: #000000;
 }
 
 li {
   list-style: none;
+  float: right;
+  padding: 30px 30px;
 }
 
-header {
- background-color: #e6ccff;
- color: #ffffff;
- height: 80px;
+.header {
+  background-color: #e6ccff;
+  color: #ffffff;
+  height: 80px;
 }
 
-header-logo {
- float: left;
- font-size: 15px;
- padding: 20px 30px;
+.header-logo {
+  float: left;
+  font-size: 15px;
+  padding: 20px 30px;
 }
 
-header-list li {
- float: right;
- padding: 30px 20px;
+.top-wrapper {
+  padding: 80px 100px;
+  padding-top: 100px;
+  padding-bottom: 200px;
 }
 
-top-wrapper {
- padding: 80px 100px;
- padding-top: 100px;
- padding-bottom: 200px;
+.lesson-wrapper img {
+   image-decoration: center;
+   max-width: 60%;
+   height: auto;
 }
 
-lesson-wrapper img {
-  image-decoration: center;
-  max-width: 60%;
-  height: auto;
+.lesson-wrapper p {
+  font-size: 20px;
+  font-color: #000000;
+  margin-top: 30px;
+  padding top: 50px;
+  padding-bottom: 100px;
 }
 
-lesson-wrapper li {
- float: right;
- max-widht: 100%;
- padding: 30px 20px;
-}
-
-lesson-wrapper p {
- font-size: 20px;
- margin-top: 30px;
- padding top: 50px;
- padding-bottom: 100px;
-}
-
-footer {
- background-color: #e6ccff;
- color: #fff;
- height: 100px;
-}
-
-footer-list li {
- float: right;
- padding: 20px 30px;
+.footer {
+  background-color: #e6ccff;
+  font-color: #ffff00;
+  height: 90px;
 }
 </style>
