@@ -7,8 +7,6 @@ body {
 
 li {
   list-style: none;
-  float: right;
-  padding: 30px 30px;
 }
 
 .header {
@@ -29,10 +27,20 @@ li {
   padding-bottom: 200px;
 }
 
+.lesson-wrapper li{
+  float: right;
+  padding: 30px 30px;
+}
+
 .img {
    float: center;
    max-width: 60%;
    height: auto;
+}
+
+.message-wrapper li{
+  float: right;
+  padding: 30px 30px;
 }
 
 .footer {
