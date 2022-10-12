@@ -13,8 +13,8 @@ li {
 }
 
 img {
-  height: 100px;
-  widht: 100px;
+  height: 200px;
+  widht: 200px;
 }
 
 .header {
@@ -26,7 +26,7 @@ img {
 .top-wrapper {
   padding: 80px 100px;
   padding-top: 100px;
-  padding-bottom: 200px;
+  padding-bottom: 80px;
 }
 
 .header-logo {
@@ -36,6 +36,12 @@ img {
 }
 
 .lesson-wrapper {
+  padding: 80px 100px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.message-wrapper {
   padding: 80px 100px;
   padding-top: 100px;
   padding-bottom: 200px;
