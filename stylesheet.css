@@ -7,6 +7,8 @@ body {
 
 li {
   list-style: none;
+  float: right;
+  padding: 30px 30px;
 }
 
 .header {
@@ -15,32 +17,22 @@ li {
   height: 80px;
 }
 
-.header-logo {
-  float: left;
-  font-size: 20px;
-  padding-top: 20px;
-}
-
 .top-wrapper {
   padding: 80px 100px;
   padding-top: 100px;
   padding-bottom: 200px;
 }
 
-.lesson-wrapper li{
-  float: right;
-  padding: 30px 30px;
+.header-logo {
+  float: left;
+  font-size: 20px;
+  padding-top: 20px;
 }
 
-.img {
-   float: center;
-   max-width: 60%;
-   height: auto;
-}
-
-.message-wrapper li{
-  float: right;
-  padding: 30px 30px;
+.lesson-wrapper {
+  padding: 80px 100px;
+  padding-top: 100px;
+  padding-bottom: 200px;
 }
 
 .footer {
