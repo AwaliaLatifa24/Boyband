@@ -56,6 +56,7 @@ img {
   list-style: none;
   float: left;
   padding: 20px 10px;
+  padding-bottom: 100px;
 }
 
 .footer {
@@ -63,5 +64,12 @@ img {
   font-color: #ffff00;
   font-size: 20px;
   height: 90px;
+}
+
+.footer li {
+  list-style: none;
+  float: right;
+  padding: 20px 10px;
+  padding-bottom: 45px;
 }
 </style>
