@@ -30,14 +30,14 @@ img {
 
 .top-wrapper {
   padding: 80px 100px;
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 80px;
+  padding-bottom: 10px;
 }
 
 .lesson-wrapper {
   padding: 80px 100px;
   padding-top: 100px;
-  padding-bottom: 100px;
+  padding-bottom: 10px;
 }
 
 .sosmed li {
