@@ -41,10 +41,15 @@ img {
   padding-bottom: 100px;
 }
 
-.message-wrapper {
-  padding: 80px 100px;
-  padding-top: 30px;
-  padding-bottom: 30px;
+.sosmed img {
+  height: 20px;
+  widht: 20px;
+}
+
+.lagu-li {
+  list-style: none;
+  float: right;
+  padding: 20px 10px;
 }
 
 .footer {
