@@ -41,6 +41,12 @@ img {
   padding-bottom: 100px;
 }
 
+.sosmed li {
+  list-style: none;
+  float: left;
+  padding: 20px 10px;
+}
+
 .sosmed img {
   height: 20px;
   widht: 20px;
@@ -48,7 +54,7 @@ img {
 
 .lagu-li {
   list-style: none;
-  float: right;
+  float: left;
   padding: 20px 10px;
 }
 
